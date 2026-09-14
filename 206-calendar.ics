@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:206 — Objectifs & Reviews
 X-WR-TIMEZONE:Europe/Paris
-X-WR-CALDESC:Calendrier personnel de Christ (206) — Weekly reviews, objectifs Rendr, milestones vie
+X-WR-CALDESC:Calendrier personnel de Christ (206) — Weekly reviews, objectifs Rendr, Greenstar, milestones vie
 
 BEGIN:VEVENT
 UID:weekly-review-001@206
@@ -50,12 +50,52 @@ STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
+UID:service-civique-prep@206
+DTSTART:20261023T100000Z
+DTEND:20261023T110000Z
+SUMMARY:⚠️ Préparation Service Civique AFEV
+DESCRIPTION:Dans 3 jours : début du service civique à l'AFEV Paris.\n\nÀ préparer :\n- Documents administratifs\n- Transport (vérifier trajet)\n- Organisation emploi du temps Rendr + Greenstar
+LOCATION:Rappel
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:service-civique-debut@206
+DTSTART:20261026T080000Z
+DTEND:20261026T170000Z
+SUMMARY:🎓 Début Service Civique — AFEV Paris
+DESCRIPTION:Premier jour à l'AFEV Paris.\n\nMission : Gestion des inégalités dans les écoles\nRémunération : 640 €/mois\nHoraires : Sympas et flexibles\n\nObjectif : Utiliser le temps libre pour avancer Rendr et Greenstar.Paris
+LOCATION:AFEV Paris
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
 UID:rendr-milestone-003@206
 DTSTART:20261031T120000Z
 DTEND:20261031T130000Z
 SUMMARY:🚀 Rendr — 20 utilisateurs actifs
 DESCRIPTION:Objectif : 20 traders utilisant activement la plateforme.\n\nActions :\n- Scale les canaux qui marchent\n- Itérer sur feedback\n- Préparer roadmap V2
 LOCATION:Projets Rendr
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:greenstar-milestone-001@206
+DTSTART:20261115T120000Z
+DTEND:20261115T130000Z
+SUMMARY:🌟 Greenstar.Paris — Premier client payant
+DESCRIPTION:Objectif : Décrocher le premier client payant pour Greenstar.Paris\n\nServices prioritaires :\n- Site vitrine\n- Gestion réseaux sociaux\n- Identité visuelle\n\nAvec Alex : définir pricing et packages clairs.
+LOCATION:Projets Greenstar
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bilan-service-civique@206
+DTSTART:20261130T190000Z
+DTEND:20261130T200000Z
+SUMMARY:📊 Bilan 1er mois Service Civique
+DESCRIPTION:Bilan après 1 mois de service civique AFEV :\n\n- Comment ça se passe ?\n- Équilibre service civique / projets perso ?\n- Revenus investis où ?\n- Ajustements nécessaires ?
+LOCATION:Obsidian Journal
 STATUS:CONFIRMED
 END:VEVENT
 

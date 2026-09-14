@@ -6,8 +6,12 @@
 
 ## 📊 Infos Clés
 
-- **Cofondateur :** [[Alex]]
-- **Démarrage :** Décembre 2025
+**Cofondateur :** [[Alex]]  
+**Projets communs :**
+- [[Rendr]] — Plateforme cashback + copytrading
+- [[Greenstar.Paris]] — Agence digitale
+
+**Démarrage :** Décembre 2025
 - **Reprise :** Septembre 2026 (après pause)
 - **Status actuel :** [[Rendr — Phase Acquisition Clients]]
 - **Repo :** `E:\Travail\Projets\rendr-v2`

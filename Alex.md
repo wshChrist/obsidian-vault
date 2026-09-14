@@ -1,27 +1,38 @@
 # Alex
 
-Mon cofondateur sur [[Rendr]].
+Mon cofondateur sur plusieurs projets.
 
 ---
 
-## Qui c'est
+## Projets communs
 
-*(À compléter quand tu me parleras de lui — comment vous vous êtes rencontrés, ses skills, etc.)*
+### [[Rendr]]
+Plateforme cashback + copytrading pour traders.
+
+**Rôle :** Cofondateur (avec moi)  
+**Démarrage :** Décembre 2025  
+**Status :** Phase acquisition clients
+
+### [[Greenstar.Paris]]
+Agence digitale — création de sites web, gestion réseaux sociaux, branding, SEO.
+
+**URL :** https://greenstar.paris  
+**Status :** Actif
 
 ---
 
 ## Collaboration
 
-- **Projet commun :** [[Rendr]]
-- **Communication :** *(Discord, Google Drive, autre ?)*
-- **Répartition des tâches :** *(À définir)*
+- **Communication :** *(À préciser — Discord, Slack, autre ?)*
+- **Répartition tâches :** *(À définir plus en détail)*
+- **Google Drive partagé :** Prévu pour la partie Rendr
 
 ---
 
 ## Notes
 
-*(Trucs importants à retenir sur Alex, sa façon de bosser, etc.)*
+Alex est co-founder sur mes deux principaux projets business. On a repris Rendr ensemble en septembre 2026 après une pause de 9 mois.
 
 ---
 
-**Retour :** [[Rendr]]
+**Retour :** [[Rendr]] • [[Greenstar.Paris]]
