@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//206 Life & Projects//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:206 — Objectifs & Reviews
+X-WR-TIMEZONE:Europe/Paris
+X-WR-CALDESC:Calendrier personnel de Christ (206) — Weekly reviews, objectifs Rendr, milestones vie
+
+BEGIN:VEVENT
+UID:weekly-review-001@206
+DTSTART:20260920T200000Z
+DTEND:20260920T210000Z
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SUMMARY:📝 Weekly Review avec Claude
+DESCRIPTION:5 questions rapides :\n- Qu'est-ce qui s'est passé cette semaine ?\n- Comment tu te sens ?\n- Qu'est-ce que t'as appris ?\n- Blocages ?\n- Prochaines étapes ?\n\nClaude documente automatiquement dans le journal Obsidian.
+LOCATION:Obsidian Journal
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rendr-milestone-001@206
+DTSTART:20260925T120000Z
+DTEND:20260925T130000Z
+SUMMARY:🎯 Rendr — Trouver 5 premiers clients
+DESCRIPTION:Objectif : 5 beta testers actifs sur la plateforme.\n\nCanaux prioritaires :\n- Discord traders\n- Twitter/X outreach\n- Forums spécialisés
+LOCATION:Stratégie Clients Rendr
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:monthly-review-001@206
+DTSTART:20261001T200000Z
+DTEND:20261001T210000Z
+RRULE:FREQ=MONTHLY;BYMONTHDAY=1
+SUMMARY:🗓️ Monthly Review — Objectifs Long-Terme
+DESCRIPTION:Check mensuel :\n- Où j'en suis sur Thaïlande ?\n- Revenus actuels vs objectif ?\n- Nouveaux projets à lancer ?\n- Leçons apprises ce mois ?\n\nClaude met à jour l'Obsidian avec les réflexions.
+LOCATION:Obsidian — Rêves & Objectifs
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rendr-milestone-002@206
+DTSTART:20261010T120000Z
+DTEND:20261010T130000Z
+SUMMARY:🎯 Rendr — Stratégie marketing validée
+DESCRIPTION:Objectif : Avoir identifié les 2-3 canaux qui marchent le mieux.\n\nMétriques :\n- Taux de conversion par canal\n- Feedback utilisateurs\n- Itérations faites
+LOCATION:Stratégie Clients Rendr
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rendr-milestone-003@206
+DTSTART:20261031T120000Z
+DTEND:20261031T130000Z
+SUMMARY:🚀 Rendr — 20 utilisateurs actifs
+DESCRIPTION:Objectif : 20 traders utilisant activement la plateforme.\n\nActions :\n- Scale les canaux qui marchent\n- Itérer sur feedback\n- Préparer roadmap V2
+LOCATION:Projets Rendr
+STATUS:CONFIRMED
+END:VEVENT
+
+END:VCALENDAR
