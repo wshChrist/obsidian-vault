@@ -99,4 +99,14 @@ LOCATION:Obsidian Journal
 STATUS:CONFIRMED
 END:VEVENT
 
+BEGIN:VEVENT
+UID:relance-afev-akli@206
+DTSTART:20260919T100000Z
+DTEND:20260919T103000Z
+SUMMARY:📧 Relancer El Kaissa AKLI — AFEV
+DESCRIPTION:Envoyer un email de suivi à El Kaissa AKLI (AFEV) suite à l'entretien du 8 septembre.\n\nObjet : Suivi de mon entretien du 8 septembre – Démarrage 26 octobre\n\nMessage :\nBonjour El Kaissa,\nJe me permets de revenir vers vous suite à notre entretien du 8 septembre, à l'issue duquel nous avions convenu d'un démarrage le 26 octobre.\nN'ayant pas encore reçu de documents ou d'informations concernant la suite, je voulais m'assurer que tout est bien en ordre de votre côté et savoir si vous avez besoin d'éléments supplémentaires de ma part.\nDans l'attente de votre retour, je reste disponible.\nCordialement,\nChrist
+LOCATION:Email
+STATUS:CONFIRMED
+END:VEVENT
+
 END:VCALENDAR
